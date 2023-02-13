@@ -1,5 +1,5 @@
 # TaskDataMax
-# I worked in one file main.java to create thei project
+# I worked in one file -> main.java to create this project
 The ide of project is to not use predefined functions
 I choose to work with list beacause is more simple to  add an  emelent in the exact plase without deleting others.
 #1. I  create  a for loop to  create a string with concatonate number whitch i use it in  the #2 .
